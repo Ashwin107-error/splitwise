@@ -1,7 +1,7 @@
 # Splitwise Backend
 
 # github link
-
+https://github.com/Ashwin107-error/splitwise.git
 
 # run api
 endpoint 1 '/expenses' method= POST (adds expenses and updates balance of all users)
